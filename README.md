@@ -1,6 +1,6 @@
 ## Smart_home_python
 
-### This project is a collection of Python scripts designed for managing different aspects of a smart home environment. Each script corresponds to a different area or functionality within the home. I wrote this project as a part of my programming class. This project covers topics like Class, OOP (Object Oriented Programming), if-else statements, use of return values and using parameters.
+This project is a collection of Python scripts designed for managing different aspects of a smart home environment. Each script corresponds to a different area or functionality within the home. I wrote this project as a part of my programming class. This project covers topics like Class, OOP (Object Oriented Programming), if-else statements, use of return values and using parameters.
 
 ## Scripts
 
@@ -23,9 +23,9 @@ Dependencies
 
 To get started with the project, ensure you have Python installed on your system. Clone this repository and open the scripts using your preferred IDE (e.g., Visual Studio Code).
 
-git clone https://github.com/NightPlasma/Smart_home_python.git
-cd Smart_home_python
-Python3 Main.py
+git clone https://github.com/NightPlasma/Smart_home_python.git <br>
+cd Smart_home_python <br>
+Python3 Main.py <br>
 
 ## Contributing
 
