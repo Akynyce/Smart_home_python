@@ -23,9 +23,9 @@ Dependencies
 
 To get started with the project, ensure you have Python installed on your system. Clone this repository and open the scripts using your preferred IDE (e.g., Visual Studio Code).
 
-    git clone https://github.com/NightPlasma/Smart_home_python.git <br>
-    cd Smart_home_python <br>
-    Python3 Main.py <br>
+    git clone https://github.com/Akynyce/Smart_home_python.git
+    cd Smart_home_python
+    Python3 Main.py
 
 ## Contributing
 
